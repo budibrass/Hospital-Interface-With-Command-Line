@@ -18,5 +18,5 @@ Release 3 *** IMPLEMENET ADDPATIENT COMMAND *** => Buat lah code untuk menambahk
 Release 4 *** IMPLEMENET LOGOUT COMMAND *** => Buat lah code agae user yang sudah Login bisa melakukan Logout
 
 
-How To Run This App
-node app.js help => you can follow any instructions in help
+# How To Run This App
+- node app.js help => you can follow any instructions in help
